@@ -14,7 +14,7 @@ setup(
     description="Production-ready RAG with adaptive memory system and hybrid retrieval",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/achyuthansivasankar/rag-acga-knowledge-base-memory-system",
+    url="https://github.com/Achyuthan-S/rag-acga-knowledge-base-memory-system",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -57,9 +57,9 @@ setup(
     },
     keywords="rag retrieval augmented generation memory knowledge base ai llm",
     project_urls={
-        "Bug Reports": "https://github.com/achyuthansivasankar/rag-acga-knowledge-base-memory-system/issues",
-        "Source": "https://github.com/achyuthansivasankar/rag-acga-knowledge-base-memory-system",
-        "Documentation": "https://github.com/achyuthansivasankar/rag-acga-knowledge-base-memory-system/blob/main/README.md",
-        "Benchmarks": "https://github.com/achyuthansivasankar/rag-acga-knowledge-base-memory-system/blob/main/BENCHMARKS.md",
+        "Bug Reports": "https://github.com/Achyuthan-S/rag-acga-knowledge-base-memory-system/issues",
+        "Source": "https://github.com/Achyuthan-S/rag-acga-knowledge-base-memory-system",
+        "Documentation": "https://github.com/Achyuthan-S/rag-acga-knowledge-base-memory-system/blob/main/README.md",
+        "Benchmarks": "https://github.com/Achyuthan-S/rag-acga-knowledge-base-memory-system/blob/main/BENCHMARKS.md",
     },
 )
